@@ -58,6 +58,18 @@ The dataset contains 150 flower samples belonging to three species:
 * Correlation Heatmap
 * Confusion Matrix
 
+## Project Visualizations
+
+### Pair Plot
+The pair plot visualizes relationships between different flower measurements and shows that Iris Setosa is clearly separable from the other species.
+
+![Pair Plot](pairplot.png)
+
+### Confusion Matrix
+The confusion matrix evaluates model performance and shows that the KNN model classified most flower species correctly.
+
+![Confusion Matrix](confusion_matrix.png)
+
 ## Machine Learning Model
 
 Algorithm Used:
